@@ -1,6 +1,8 @@
 # Visualizer-JUCE
 Audio Visualizer
 
-- DAW Plugin Tested on:
-  - Ableton Live Suite 10
+
+# Tools Used:
+C++, JUCE Framework, Ableton Live Suite
+
 
